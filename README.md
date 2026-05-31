@@ -324,7 +324,7 @@ Auto Scaling Group
 ![Auto Scaling](screenshots/auto-scaling-group.png)
 
 ### Auto Scaling – Minimum 2 Instances
-![ASG Instances](screenshots/asg-instances.png)
+![ASG Instances](screenshots/auto-scaling-group.png)
 
 ### RDS Instance Created
 ![RDS Instance](screenshots/rds-instance.png)
